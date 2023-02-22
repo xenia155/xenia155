@@ -1,5 +1,5 @@
 ### Hi there 👋
--🌱 I’m currently learning C#, Ruby and many more things.
+🌱 I’m currently learning C#, Ruby and many more things.
 
 <!--
 **xenia155/xenia155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
