@@ -24,6 +24,16 @@ My name is Ksenia. I am a student of  <a href="bsu-link">BSU</a>,  <a href="http
 
 - :zap: In my free time, I solve problems on CodeWars and LeetCode to sharpen my coding skills. 
 
+---
+
+###  📊 My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xenia155)](https://git.io/streak-stats) 
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xenia155&show_icons=true) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xenia155&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
@@ -53,12 +63,3 @@ My name is Ksenia. I am a student of  <a href="bsu-link">BSU</a>,  <a href="http
   
 
 </div>
-
----
-
-###  📊 My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xenia155)](https://git.io/streak-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xenia155&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
